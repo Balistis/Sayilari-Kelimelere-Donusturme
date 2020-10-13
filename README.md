@@ -1,6 +1,3 @@
 # Sayilari-Kelimelere-Donusturme
-/Klavyeden 0 ile 1000 arasinda girilen tam sayiyi yazi ile ifade etme/
 
-Iletisim: arasateser@gmail.com
-
-Telegram: @arasateser
+Bir mühendislik öğrencisi olarak kendim ve veri yapılarını anlamak isteyenler için elimden geldiğince veri yapıları konularını açıkladığım bir internet sitem var. Buradan benimle iletişime geçebilir ve diğer işlerime ulaşabilirsiniz: https://arasateser.wordpress.com/ . Görüşlerinizi "contact" kısmında görmekten mutluluk duyarım.
